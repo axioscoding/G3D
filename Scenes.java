@@ -4,8 +4,10 @@ import java.util.Comparator;
 
 public class Scenes {
 
+    // VERTEX_PLANES
     VertexPlane v1, v2;
 
+    // BOXES
     double noiseDelta = 0;
     double noiseScalar = 0.001; // 0.002
     double noiseMultiplier = 160;
@@ -27,6 +29,8 @@ public class Scenes {
     Box[] boxes = new Box[floorDim * floorDim + 1];
 
     Box b = new Box(new Vector(-60, -60, 400), new Vector(50, 50, 50));
+
+    // BOX_AND_SPHERE
 
     Sphere s = new Sphere(new Vector(0, 0, 500), 100, 30);
 
