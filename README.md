@@ -4,9 +4,4 @@
 
 Change example presets in Scene.java
 
-
-Controls:
-
-  WASD  -   Move
-  
-  QE    -   Rotate
+Move with WASD, rotate with Q and E
