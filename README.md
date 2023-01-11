@@ -6,5 +6,7 @@ Change example presets in Scene.java
 
 
 Controls:
+
   WASD  -   Move
+  
   QE    -   Rotate
